@@ -26,8 +26,7 @@ int main(void)
 
 	(time(0));
 
-	n =  -98;
-
+	n =  -98; n = 98;
 
 
 	if (n == 0)

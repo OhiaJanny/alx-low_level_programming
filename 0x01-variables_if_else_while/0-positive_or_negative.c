@@ -26,7 +26,7 @@ int main(void)
 
 	(time(0));
 
-	n =  - / 2;
+	n =  - 2;
 
 
 

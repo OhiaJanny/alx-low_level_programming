@@ -23,13 +23,13 @@ void times_table(void)
 				_putchar(k + '0');
 			}
 			{
-				_putvhar(',')
+				_putchar(',')
 				_putchar(' ');
 				_putchar((k / 10) + '0');
 				_putchar((k % 10) + '0');
 			}
 		}
-		_purchar('\n');
+		_putchar('\n');
 	}
 }
 
